@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samratchou4137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samratchou4137" height="30" width="40" /></a>
+<a href="https://twitter.com/samratchou41387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samratchou4137" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samrat25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat25" height="30" width="40" /></a>
 <a href="https://kaggle.com/samratc252007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samratc252007" height="30" width="40" /></a>
 <a href="https://instagram.com/weekend__drills" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weekend__drills" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/weekenddrill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weekenddrill" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@Weekenddrill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weekenddrill" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samrat252007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samrat252007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/4r9e7d0img" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="4r9e7d0img" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@lifewithsamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lifewithsamrat" height="30" width="40" /></a>
