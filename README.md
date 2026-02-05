@@ -1,3 +1,5 @@
+![logo](https://github.com/samratc252007/samratc252007/blob/main/Black%20and%20White%20Illustrative%20Manager%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Samrat Choudhury</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
